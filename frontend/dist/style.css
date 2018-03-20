@@ -65,10 +65,10 @@ label {
 /* BASICS */
 
 .CodeMirror {
-  /* Set height, width, borders, and global font properties here */
+  /* 修改编辑框的长和宽 */
   font-family: monospace;
   color: black;
-  height:500px;
+  height:660px;
 }
 
 /* PADDING */
